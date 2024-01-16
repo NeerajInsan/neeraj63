@@ -5,6 +5,9 @@ git rm --cached
 git commit -m
 git log
 git restore
+git --oneline
+git --oneline --pretty
 git config --global user.name "Neeraj Insan"
 git config --global user.email "bhagatneeraj63@gmail.com"
+git branch
 git checkout -b  
